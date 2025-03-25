@@ -12,7 +12,7 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - Rust’s key features (zero-cost abstractions, ownership model)
   - Installing Rust (rustup, cargo, rustc)
 - **Basic Syntax**
-  - Rust variables (`let`, `mut`), see [For more on Rust variables ](https://github.com/BirukAfework/Rust-101/blob/main/Variables%20and%20mutability%20(let%2C%20mut).md).
+  - Rust variables (`let`, `mut`), see [Variables ](https://github.com/BirukAfework/Rust_101/edit/main/Variables.md).
   - Data types (scalars: integers, floats, booleans, characters; compounds: tuples, arrays)
   - Functions (defining, parameters, return values)
   - Comments and formatting
