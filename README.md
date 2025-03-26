@@ -1,8 +1,6 @@
 # Rust Course Roadmap: Basic to Advanced
 
-Welcome to the Rust Course Roadmap and Course! This guide outlines a structured path to learn Rust, a powerful systems programming language known for its safety, performance, and concurrency. The roadmap progresses from foundational concepts to advanced topics, with practical examples and projects to reinforce learning.
 
----
 
 ## Level 1: Getting Started with Rust
 *Goal*: Understand Rust basics, set up the environment, and write simple programs.
@@ -26,7 +24,7 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - Cargo basics (create, build, run projects)
   - Rustfmt for code formatting
 
----
+
 
 ## Level 2: Core Rust Concepts
 *Goal*: Master Rust’s ownership model and essential programming constructs.
@@ -51,7 +49,7 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - Rust Analyzer (IDE integration)
   - Debugging with `println!` and basic tools
 
----
+
 
 ## Level 3: Intermediate Rust
 *Goal*: Work with collections, modules, and basic concurrency.
@@ -76,7 +74,6 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - Cargo documentation (`cargo doc`)
   - Unit testing with `#[test]`
 
----
 
 ## Level 4: Advanced Rust
 *Goal*: Dive into advanced features, performance optimization, and real-world applications.
@@ -103,7 +100,6 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - Clippy for linting
   - Benchmarking with `criterion`
 
----
 
 ## Level 5: Rust in Practice
 *Goal*: Apply Rust to real-world domains and contribute to the ecosystem.
@@ -124,7 +120,7 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
   - `cargo publish`
   - Git for version control
 
----
+
 
 ## Resources
 - **Official Documentation**: [The Rust Book](https://doc.rust-lang.org/book/)
@@ -132,7 +128,7 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
 - **Community**: Rust Discord, Reddit (/r/rust), Rust User Forums
 - **Books**: "Rust in Action" by Tim McNamara, "Programming Rust" by Jim Blandy et al.
 
----
+
 
 ## Tips for Success
 - Write code daily to reinforce concepts.
@@ -140,4 +136,3 @@ Welcome to the Rust Course Roadmap and Course! This guide outlines a structured 
 - Experiment with small projects to apply what you’ve learned.
 - Engage with the Rust community for support and inspiration.
 
----
