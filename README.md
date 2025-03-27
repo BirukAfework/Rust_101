@@ -12,7 +12,7 @@
 - **Basic Syntax**
   - Rust variables (`let`, `mut`), see [Variables ](https://github.com/BirukAfework/Rust_101/edit/main/Variables.md).
   - Data types (scalars: integers, floats, booleans, characters; compounds: tuples, arrays) [Data types ](https://github.com/BirukAfework/Rust_101/blob/main/DataTypes.md).
-  - Functions (defining, parameters, return values)
+  - Functions (defining, parameters, return values)  see [Functions ](https://github.com/BirukAfework/Rust_101/blob/main/Function.md).
   - Comments and formatting
 - **Control Flow**
   - `if`, `else if`, `else` statements
