@@ -20,9 +20,6 @@
   - Pattern matching with `match`
 - **Project**: 
   - Build a simple calculator (add, subtract, multiply, divide user inputs)
-- **Tools**: 
-  - Cargo basics (create, build, run projects)
-  - Rustfmt for code formatting
 
 
 
